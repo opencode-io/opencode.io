@@ -1,5 +1,4 @@
-# 🐧 🖥️ Panduan Lengkap: Linux, Git, MCP, Bahasa Pengaturcaraan & Codespaces
-
+# 🐧 🖥️ Panduan Lengkap: Linux, Git, MCP, Bahasa Pengaturcaraan & 
 ![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg)
 ![OpenCode](https://opencode.ai/brand/files/opencode-logo-dark.svg)
 ![DeepSeek](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/deepseek.svg)
