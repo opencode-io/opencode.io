@@ -1,20 +1,11 @@
 # 🐧 🖥️ Panduan Lengkap: Linux, Git, MCP, Bahasa Pengaturcaraan & 
-![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg)
-![OpenCode](https://opencode.ai/brand/files/opencode-logo-dark.svg)
-![DeepSeek](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/deepseek.svg)
-![Llama](https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-dark.svg)
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg" 
-     alt="Linux" width="15" height="15" style="filter: invert(1);">
-
-<img src="https://opencode.ai/brand/files/opencode-logo-dark.svg" 
-     alt="OpenCode" width="15" height="15">
-
+     alt="Linux" width="100" height="100" style="filter: invert(1);">
 <img src="https://cdn.simpleicons.org/deepseek/5786FE" 
-     alt="DeepSeek" width="15" height="15">
-
+     alt="DeepSeek" width="100" height="100">
 <img src="https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-dark.svg" 
-     alt="Llama" width="15" height="15">
+     alt="Llama" width="100" height="100">
 
 > **Nota penting:**  
 > Dokumen ini menggabungkan cheat sheet Linux, Git, pemasangan MCP, pengurusan bahasa (Node.js, Java, Bash), **openSUSE**, dan aliran kerja GitHub Codespaces.  
