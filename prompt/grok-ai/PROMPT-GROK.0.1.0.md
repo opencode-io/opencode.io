@@ -8,29 +8,15 @@
 **Ikon:** 🐧 Linux · 🖥️ Terminal · 📦 Node.js/npm · 🐍 Python · 🐳 Docker · 🗄️ Database
 
 ---
-<!-- Simple Icons (monochrome, bagus untuk icon) -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg" alt="Linux" width="17" height="17">
+
 <!-- Dengan warna rasmi -->
-<img src="https://cdn.simpleicons.org/linux" alt="Linux" width="17" height="17">
-<!-- Logo Light (untuk background gelap) -->
-<img src="https://opencode.ai/brand/files/opencode-logo-light.svg" alt="OpenCode" width="17" height="17">
+<img src="https://cdn.simpleicons.org/linux" alt="Linux" width="280" height="280">
 
-<!-- Square version -->
-<img src="https://opencode.ai/brand/files/opencode-logo-light-square.svg" alt="OpenCode" width="17" height="17">
+![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg)
+![DeepSeek](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/deepseek.svg)
 
-**DEEPSEEK AI**
-<!-- Dengan warna rasmi -->
-<img src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" width="17" height="17">
-
-**LLAMA AI**
-<!-- Icon rasmi dari llama.brand -->
-<img src="https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-light.svg" alt="Llama" width="17" height="17">
-
-<!-- Dari repo llama.cpp -->
-<img src="https://raw.githubusercontent.com/ggml-org/llama.cpp/master/media/llama1-icon.svg" alt="Llama" width="17" height="17">
-
-
-## Kandungan
+## **Pertama** 
+<img src="https://cdn.simpleicons.org/linux" alt="Linux" width="100" height="100">
 
 1. [Linux Asas](#1-linux-asas)
 2. [Pengurusan Fail & Direktori](#2-pengurusan-fail--direktori)
