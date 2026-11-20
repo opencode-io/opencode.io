@@ -1,5 +1,21 @@
 # 🐧 🖥️ Panduan Lengkap: Linux, Git, MCP, Bahasa Pengaturcaraan & Codespaces
 
+![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg)
+![OpenCode](https://opencode.ai/brand/files/opencode-logo-dark.svg)
+![DeepSeek](https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/deepseek.svg)
+![Llama](https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-dark.svg)
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg" 
+     alt="Linux" width="28" height="28" style="filter: invert(1);">
+
+<img src="https://opencode.ai/brand/files/opencode-logo-dark.svg" 
+     alt="OpenCode" width="28" height="28">
+
+<img src="https://cdn.simpleicons.org/deepseek/5786FE" 
+     alt="DeepSeek" width="28" height="28">
+
+<img src="https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-dark.svg" 
+     alt="Llama" width="28" height="28">
 <!-- Simple Icons (monochrome, bagus untuk icon) -->
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg" alt="Linux" width="32" height="32">
 
