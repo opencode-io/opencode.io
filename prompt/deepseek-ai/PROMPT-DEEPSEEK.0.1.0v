@@ -1,0 +1,83 @@
+## SENARAI COMMAND LINE DEEPSEEK AI
+___
+
+# Panduan Lengkap: Linux, Git, MCP, Bahasa Pengaturcaraan & Codespaces
+
+> **Nota:** Dokumen ini menggabungkan cheat sheet Linux, Git, pemasangan MCP, pengurusan bahasa (Node.js, Java, Bash), openSUSE, dan aliran kerja GitHub Codespaces.  
+> Sesetengah arahan (contohnya `systemctl`, `reboot`, GRUB, EFI) **tidak berfungsi** dalam Codespaces kerana ia berjalan dalam container, bukan mesin Linux penuh.
+
+---
+
+## Kandungan
+1. [Arahan Asas Linux & Bila Guna](#1-arahan-asas-linux--bila-guna)
+2. [Pengurusan Fail & Direktori](#2-pengurusan-fail--direktori)
+3. [Kebenaran Fail](#3-kebenaran-fail)
+4. [Pengurusan Proses & Sistem](#4-pengurusan-proses--sistem)
+5. [Rangkaian & Pemantauan](#5-rangkaian--pemantauan)
+6. [Pengurusan Pakej (apt, dnf, zypper, pacman)](#6-pengurusan-pakej)
+7. [openSUSE: Pemasangan Bahasa & Alat](#7-opensuse-pemasangan-bahasa--alat)
+8. [Node.js, npm & pnpm (JavaScript)](#8-nodejs-npm--pnpm-javascript)
+9. [Java (OpenJDK)](#9-java-openjdk)
+10. [Bash & Bahasa Sistem](#10-bash--bahasa-sistem)
+11. [Pemasangan MCP (Model Context Protocol)](#11-pemasangan-mcp-model-context-protocol)
+12. [Semua Arahan Git](#12-semua-arahan-git)
+13. [Cipta Repositori Baharu dalam Codespaces & Terminal](#13-cipta-repositori-baharu-dalam-codespaces--terminal)
+14. [Had Sistem dalam Codespaces](#14-had-sistem-dalam-codespaces)
+
+---
+
+## 1. Arahan Asas Linux & Bila Guna
+
+| Perintah | Kegunaan | Bila Guna |
+|----------|----------|-----------|
+| `pwd` | Papar direktori semasa | Semak lokasi anda dalam terminal |
+| `ls` | Senarai fail | Lihat kandungan direktori |
+| `cd <dir>` | Tukar direktori | Navigasi sistem fail |
+| `whoami` | Papar pengguna semasa | Semak identiti pengguna |
+| `echo <teks>` | Cetak teks | Uji output atau papar mesej |
+| `history` | Sejarah perintah | Ulang perintah lama |
+| `man <perintah>` | Manual perintah | Fahami pilihan perintah |
+| `clear` | Kosongkan skrin | Bersihkan terminal |
+
+**Contoh:**
+```bash
+pwd
+ls -la
+cd /home/user/projek
+
+___
+```bash
+2.Pemgurusan Fail & Direktori.
+
+Perintah Kegunaan Bila Guna
+mkdir <dir> Cipta direktori Buat folder projek
+rmdir <dir> Buang direktori kosong Bersihkan folder kosong
+rm <fail> Padam fail Buang fail tidak diperlukan
+rm -rf <dir> Padam paksa direktori Hati-hati: buang folder dan kandungannya
+cp <sumber> <dest> Salin fail Sandaran atau duplikasi
+mv <sumber> <dest> Pindah/namakan semula Susun atur fail
+touch <fail> Cipta fail kosong Mulakan fail baharu
+cat <fail> Papar kandungan Baca fail teks pendek
+less <fail> Baca halaman demi halaman Fail teks panjang
+head <fail> 10 baris pertama Semak permulaan fail
+tail -f <fail> Ikut fail secara langsung Pantau log masa nyata
+find <dir> -name <nama> Cari fail Cari fail mengikut nama
+grep "<corak>" <fail> Cari teks Tapis kandungan fail
+
+**Contoh**
+```bash
+mkdir projek-baharu
+cp -r sumber/ destinasi/
+tail -f /var/log/syslog
+grep "error" log.txt
+
+___
+```bash
+3.Kebenaran Fail
+
+Perintah Kegunaan Bila Guna
+ls -l Lihat kebenaran Semak akses fail
+chmod <mod> <fail> Ubah kebenaran Beri akses baca/tulis/laksana
+chown <pemilik>:<kumpulan> <fail> Tukar pemilik Pindah hak milik
+chgrp <kumpulan> <fail> Tukar kumpulan Urus akses kumpulan
+
