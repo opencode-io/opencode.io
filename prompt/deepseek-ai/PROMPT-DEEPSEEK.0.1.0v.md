@@ -5,46 +5,16 @@
 ![Llama](https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-dark.svg)
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg" 
-     alt="Linux" width="28" height="28" style="filter: invert(1);">
+     alt="Linux" width="15" height="15" style="filter: invert(1);">
 
 <img src="https://opencode.ai/brand/files/opencode-logo-dark.svg" 
-     alt="OpenCode" width="28" height="28">
+     alt="OpenCode" width="15" height="15">
 
 <img src="https://cdn.simpleicons.org/deepseek/5786FE" 
-     alt="DeepSeek" width="28" height="28">
+     alt="DeepSeek" width="15" height="15">
 
 <img src="https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-dark.svg" 
-     alt="Llama" width="28" height="28">
-<!-- Simple Icons (monochrome, bagus untuk icon) -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg" alt="Linux" width="32" height="32">
-
-<!-- Dengan warna rasmi -->
-<img src="https://cdn.simpleicons.org/linux" alt="Linux" width="32" height="32">
-<!-- Logo Light (untuk background gelap) -->
-<img src="https://opencode.ai/brand/files/opencode-logo-light.svg" alt="OpenCode" width="32" height="32">
-
-<!-- Logo Dark (untuk background cerah) -->
-<img src="https://opencode.ai/brand/files/opencode-logo-dark.svg" alt="OpenCode" width="32" height="32">
-
-<!-- Square version -->
-<img src="https://opencode.ai/brand/files/opencode-logo-light-square.svg" alt="OpenCode" width="32" height="32">
-
-**DEEPSEEK AI**
-<!-- Simple Icons -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/deepseek.svg" alt="DeepSeek" width="32" height="32">
-
-<!-- Dengan warna rasmi -->
-<img src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" width="32" height="32">
-
-**LLAMA AI**
-<!-- Icon rasmi dari llama.brand -->
-<img src="https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-light.svg" alt="Llama" width="32" height="32">
-
-<!-- Versi dark -->
-<img src="https://raw.githubusercontent.com/ggml-org/llama.brand/master/logo/svg/icon/icon-dark.svg" alt="Llama" width="32" height="32">
-
-<!-- Dari repo llama.cpp -->
-<img src="https://raw.githubusercontent.com/ggml-org/llama.cpp/master/media/llama1-icon.svg" alt="Llama" width="32" height="32">
+     alt="Llama" width="15" height="15">
 
 > **Nota penting:**  
 > Dokumen ini menggabungkan cheat sheet Linux, Git, pemasangan MCP, pengurusan bahasa (Node.js, Java, Bash), **openSUSE**, dan aliran kerja GitHub Codespaces.  
